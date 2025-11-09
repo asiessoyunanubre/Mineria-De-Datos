@@ -18,7 +18,7 @@ Dashboard interactivo para analizar datos de admisiones, retención y satisfacci
 
 ## 🛠️ Instalación Local
 ```bash
-git clone [URL_DEL_REPOSITORIO]
+git clone [https://github.com/asiessoyunanubre/Mineria-De-Datos.git]
 cd university-dashboard
 pip install -r requirements.txt
 streamlit run app.py
